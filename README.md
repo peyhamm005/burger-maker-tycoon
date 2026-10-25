@@ -1,8 +1,10 @@
 # Instructions
 Click each button with an ingredient name on it to add one of that ingredient. You can see on the left how much you need of each ingredient, and negative and positive reviews. Every time you get 10 positive reviews you get 1 star. Try to get to 5 stars. Negative reviews mean nothing. (Don't you wish that's realistic?)
+
 # Credits
 Inspiration: https://scratch.mit.edu/projects/1186565320/
 Music: https://scratch.mit.edu/projects/387416662/
+
 # Notes
 Creation Date: July 29, 2025
 Share Date: October 17, 2025
